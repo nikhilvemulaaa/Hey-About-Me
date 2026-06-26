@@ -193,16 +193,6 @@ A modern showcase of AI, Data Analytics, and Frontend Development featuring inte
 
 ---
 
-# 🏆 GitHub Trophy Cabinet
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nikhilvemulaaa&theme=algolia&no-frame=true&column=7"/>
-
-</p>
-
----
-
 # 📊 Contribution Activity
 
 <p align="center">
