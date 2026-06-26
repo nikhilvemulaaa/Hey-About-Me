@@ -1,172 +1,209 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Vemula Nikhil**
-
 <div align="center">
 
-### 🚀 Data Analyst • Data Science Enthusiast • AI & Power BI Developer
+# 👋 Hi, I'm **Vemula Nikhil**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Turning+Data+into+Business+Insights+📊;Power+BI+%7C+SQL+%7C+Python+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Analytics+Projects;Always+Learning+Something+New+🚀" />
+### **Data Analyst • AI Engineer • Business Intelligence Developer**
 
-<img src="https://komarev.com/ghpvc/?username=nikhilvemulaaa&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+*Transforming Data into Decisions with Analytics, AI, and Modern Technologies.*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Power+BI+Developer;Python+%7C+SQL+%7C+Machine+Learning;Building+Real-World+AI+Solutions;Open+Source+Contributor;Always+Learning.+Always+Building." />
+
+<img src="https://komarev.com/ghpvc/?username=nikhilvemulaaa&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+[![GitHub followers](https://img.shields.io/github/followers/nikhilvemulaaa?style=for-the-badge)](https://github.com/nikhilvemulaaa)
+[![GitHub Stars](https://img.shields.io/github/stars/nikhilvemulaaa?style=for-the-badge)](https://github.com/nikhilvemulaaa)
 
 </div>
 
 ---
 
-## 💫 About Me
+# 🚀 About Me
 
-I'm a passionate **Data Analyst and AI enthusiast** from **Jagtial, Telangana 🇮🇳**, dedicated to transforming raw data into meaningful insights through analytics, visualization, and intelligent solutions.
+I'm an aspiring **Data Analyst and AI Engineer** passionate about solving real-world problems through **data, automation, and artificial intelligence**.
 
-I enjoy solving real-world problems using **Python, SQL, Power BI, Excel, and AI**, while continuously learning modern technologies that drive business decisions.
+My work focuses on building interactive dashboards, intelligent analytics systems, and AI-powered web applications that transform complex datasets into actionable business insights.
 
-✨ **Currently Associated With**
+### 💡 Core Interests
 
-* 📍 Unicus Learning, Hyderabad
-
-🎓 **Education**
-
-* B.Tech – Computer Science Engineering (AI & ML)
-* Vaageswari College of Engineering
-* CGPA: **7.68**
-
----
-
-# 🚀 What I'm Working On
-
-* 📊 Advanced Power BI Dashboards
-* 🤖 AI-powered Analytics Applications
-* 🐍 Python Data Analysis Projects
-* 📈 Business Intelligence Solutions
-* 🌐 Interactive Data Visualization
-* 💡 Open Source Contributions
+* 📊 Business Intelligence & Data Analytics
+* 🤖 Artificial Intelligence & Machine Learning
+* 📈 Predictive Analytics
+* ⚡ Data Visualization
+* 🌐 Full-Stack Web Development
+* 🚀 Generative AI & AI Agents
 
 ---
 
-# 🏆 Featured Projects
+# 🎯 Professional Snapshot
+
+🎓 **B.Tech – Computer Science (AI & ML)**
+
+🏫 Vaageswari College of Engineering
+
+📍 Jagtial, Telangana, India
+
+💼 Associated with **Unicus Learning**
+
+📊 Specializing in:
+
+* SQL
+* Python
+* Power BI
+* Excel
+* Data Analytics
+* Machine Learning
+
+---
+
+# 🛠 Technical Toolbox
+
+### Programming
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,react,mysql,git,github,vscode"/>
+
+</p>
+
+---
+
+### Analytics
+
+✔ SQL
+
+✔ Power BI
+
+✔ Microsoft Excel
+
+✔ Power Query
+
+✔ DAX
+
+✔ Dashboard Development
+
+✔ KPI Design
+
+✔ Data Cleaning
+
+✔ Business Intelligence
+
+✔ Data Storytelling
+
+---
+
+### AI & Machine Learning
+
+✔ Python
+
+✔ Pandas
+
+✔ NumPy
+
+✔ Scikit-Learn
+
+✔ Machine Learning
+
+✔ Generative AI
+
+✔ Prompt Engineering
+
+✔ AI Agents
+
+✔ NLP
+
+✔ Predictive Analytics
+
+---
+
+# 🌟 Featured Projects
 
 ## ⚡ BharatCharge
 
-> India's Intelligent Battery Service Exchange Platform
+> AI-powered Battery Exchange Platform for Electric Vehicles
 
-* AI-powered EV Battery Exchange Platform
+### Highlights
+
+* Smart EV Battery Locator
+* AI Recommendation Engine
 * Interactive Dashboard
-* Smart Battery Station Locator
-* GenAI Assistant
-* Modern Responsive UI
+* Modern Responsive Interface
+* Real-Time Analytics
 
 ---
 
 ## 📊 Telangana Aadhaar Intelligence Dashboard
 
-A professional Power BI dashboard developed for a UIDAI Hackathon.
+Professional Power BI dashboard developed for a UIDAI-focused hackathon.
 
-### Features
+### Key Features
 
-* KPI Analysis
+* KPI Tracking
+* Enrollment Analytics
+* Interactive Visualizations
 * Citizen Insights
-* Aadhaar Analytics
-* Interactive Reports
-* Government Data Visualization
+* Administrative Reporting
 
 ---
 
 ## 🤖 AI Portfolio
 
-A modern portfolio showcasing
-
-* AI Projects
-* Automation
-* Prompt Engineering
-* Machine Learning
-* Data Analytics
+A modern showcase of AI, Data Analytics, and Frontend Development featuring intelligent applications and real-world projects.
 
 ---
 
-# 🛠 Tech Stack
+# 🏆 Achievements
 
-## Programming
+🏅 Oracle Cloud AI Foundations
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,git,github,mysql,vscode"/>
-</p>
+🏅 AWS Cloud Certification
 
-## Data Analytics
+🏅 Deloitte Data Analytics
 
-* SQL
-* Power BI
-* Microsoft Excel
-* Power Query
-* DAX
-* Data Cleaning
-* KPI Design
-* Dashboard Development
-* Data Visualization
-* Business Intelligence
+🏅 Tata Data Analytics
 
-## AI & Machine Learning
+🏅 Tata Data Visualization
 
-* Machine Learning
-* Data Science
-* Prompt Engineering
-* Generative AI
-* AI Agents
-* NLP
-* Predictive Analytics
+🏅 Wipro AI Foundation
+
+🏅 NASSCOM Data Visualization
+
+🏅 OpenAI × NxtWave
+
+🏅 National AI/ML Hackathon
+
+🏅 State-Level Buildathon Selection
 
 ---
 
-# 📜 Certifications
-
-✔ Oracle Cloud AI Foundations
-
-✔ AWS Cloud
-
-✔ Wipro AI Foundation
-
-✔ Deloitte Data Analytics
-
-✔ Tata Data Analytics (Forage)
-
-✔ Tata Data Visualization
-
-✔ NASSCOM Data Visualization
-
-✔ OpenAI × NxtWave
-
-✔ National AI/ML Hackathon
-
-✔ State-Level Buildathon Participant
-
----
-
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nikhilvemulaaa&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nikhilvemulaaa&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilvemulaaa&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilvemulaaa&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilvemulaaa&layout=compact&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilvemulaaa&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏅 GitHub Trophies
+# 🏆 GitHub Trophy Cabinet
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nikhilvemulaaa&theme=algolia&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nikhilvemulaaa&theme=algolia&no-frame=true&column=7"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📊 Contribution Activity
 
 <p align="center">
 
@@ -176,44 +213,43 @@ A modern portfolio showcasing
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Currently Exploring
 
-* Advanced SQL
-* Power BI Optimization
+* Microsoft Fabric
 * Data Engineering
+* Advanced SQL
+* Azure Data Services
 * Machine Learning
 * Deep Learning
-* Cloud Analytics
 * Generative AI
-* Azure & AWS
+* Cloud Analytics
 
 ---
 
-# 🎯 Career Goals
+# 🤝 Let's Connect
 
-* Become a Data Analyst
-* Build AI-powered Business Solutions
-* Contribute to Open Source
-* Solve Real-World Problems with Data
-* Grow as a Data Scientist
+<p align="center">
 
----
+<a href="https://linkedin.com/in/vemula-nikhil-7322b5362">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-# 🌐 Connect With Me
+<a href="mailto:nikhilvemula6@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-* 💼 LinkedIn: https://www.linkedin.com/in/vemula-nikhil-7322b5362
-* 💻 GitHub: https://github.com/nikhilvemulaaa
-* 📧 Email: [nikhilvemula6@gmail.com](mailto:nikhilvemula6@gmail.com)
-* 📍 Jagtial, Telangana, India
+<a href="https://github.com/nikhilvemulaaa">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-## ⭐ Turning Data Into Decisions | Building AI for Real-World Impact 🚀
+## 💬 *"Data tells a story. My goal is to uncover it, visualize it, and use it to create intelligent solutions that make a measurable impact."*
 
-*"Without data, you're just another person with an opinion."* — W. Edwards Deming
-
-⭐ **If you like my work, don't forget to star my repositories!**
+### ⭐ Thanks for visiting my profile! If you find my projects helpful, consider giving them a ⭐.
 
 </div>
