@@ -61,7 +61,7 @@ My work focuses on building interactive dashboards, intelligent analytics system
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,react,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,sql,pandas,numpy,matplotlib,mysql,git,github,vscode"/>
 
 </p>
 
